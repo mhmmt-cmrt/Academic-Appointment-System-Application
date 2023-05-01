@@ -1,5 +1,4 @@
 # student-appointment-system
-this project is prepared by myself for c++ lesson's project
 
 The Task
 
@@ -21,3 +20,5 @@ appointments and make sure that the appointments do not overlap for the same use
 Furthermore, each users appointments for a given interval should be printed on the
 screen. In this work you are expected to take advantage of composition and inheritance
 properties of OOP design.
+
+this project is prepared by muhammet cömert
